@@ -1,0 +1,307 @@
+Offset   Hex Data                                          Characters
+=======  ================================================  =================
+$000800  4C 38 09 20 00 BF 65 09  08 04 00 00 00 00 00 00  L8. .?e. ........
+$000810  09 80 C9 8D F0 03 4C ED  FD 4C 8E FD 48 AD B3 FB  ..I.p.Lm }L.}H-3{
+$000820  C9 06 F0 05 68 20 89 08  48 68 4C 10 08 A2 00 20  I.p.h .. HhL..". 
+$000830  0C FD C9 8D F0 4C C9 98  F0 31 C9 FF F0 16 C9 88  .}I.pLI. p1I.p.I.
+$000840  F0 12 C9 A0 90 E9 E0 7F  F0 E5 9D 00 02 E8 20 ED  p.I .i`. pe...h m
+$000850  FD 18 90 DB E0 00 F0 D7  CA A9 88 20 ED FD A9 A0  }..[`.pW J). m}) 
+$000860  20 ED FD A9 88 20 ED FD  18 90 C4 E0 00 F0 C0 CA   m}). m} ..D`.p@J
+$000870  A9 88 20 ED FD A9 A0 20  ED FD A9 88 20 ED FD 18  ). m})   m}). m}.
+$000880  90 E9 9D 00 02 20 8E FD  60 C9 61 90 07 C9 7B B0  .i... .} `Ia..I{0
+$000890  03 38 E9 20 60 A5 03 48  A5 02 48 86 02 84 03 A0  .8i `%.H %.H.... 
+$0008A0  00 B1 02 F0 13 2C BF 08  10 03 20 19 09 20 10 08  .1.p.,?. .. .. ..
+$0008B0  E6 02 D0 EB E6 03 D0 E7  68 85 02 68 85 03 60 00  f.Pkf.Pg h..h..`.
+$0008C0  AD B3 FB C9 06 D0 12 AD  98 BF 29 02 F0 02 A9 80  -3{I.P.- .?).p.).
+$0008D0  8D BF 08 AD 1F C0 8D E9  08 A9 EA 8D F2 03 A9 08  .?.-.@.i .)j.r.).
+$0008E0  8D F3 03 49 A5 8D F4 03  60 00 2C E9 08 10 05 A9  .s.I%.t. `.,i...)
+$0008F0  0C 20 00 C3 20 58 FC 20  24 09 A2 07 A0 09 20 95  . .C X|  $.". . .
+$000900  08 20 8E FD 4C 03 08 52  45 53 45 54 20 4B 45 59  . .}L..R ESET KEY
+$000910  20 50 52 45 53 53 45 44  00 C9 41 90 06 C9 5B B0   PRESSED .IA..I[0
+$000920  02 69 20 60 A2 F8 A0 1A  20 95 08 A9 3A 20 10 08  .i `"x .  ..): ..
+$000930  A9 20 4C 10 08 00 00 11  20 C0 08 A9 1A 20 ED FD  ) L.....  @.). m}
+$000940  A9 31 20 ED FD 20 58 FC  AD B3 FB C9 06 D0 06 AD  )1 m} X| -3{I.P.-
+$000950  1F C0 8D 35 09 20 1B 0A  20 9D 0A A9 03 85 22 A9  .@.5. ..  ..)..")
+$000960  15 85 23 2C 35 09 10 0A  A9 8B 20 ED FD A9 19 20  ..#,5... ). m}). 
+$000970  ED FD 20 58 FC A9 28 85  80 A9 0B 85 81 A0 00 B1  m} X|)(. .)... .1
+$000980  80 D0 0D 2C 35 09 30 04  A9 0D D0 1E A9 20 D0 1A  .P.,5.0. ).P.) P.
+$000990  C9 FF D0 04 A9 0D D0 12  C9 01 D0 03 4C E1 09 C9  I.P.).P. I.P.La.I
+$0009A0  02 D0 07 2C 35 09 10 19  30 14 20 1C 08 29 7F C9  .P.,5... 0. ..).I
+$0009B0  0D D0 0E EE 36 09 AD 36  09 CD 37 09 D0 03 20 CA  .P.n6.-6 .M7.P. J
+$0009C0  09 E6 80 D0 B8 E6 81 4C  7D 09 A9 00 8D 10 C0 2C  .f.P8f.L }.)...@,
+$0009D0  00 C0 10 FB AD 00 C0 29  7F C9 20 F0 26 C9 1B D0  .@.{-.@) .I p&I.P
+$0009E0  E9 A9 00 8D 10 C0 85 22  A9 18 85 23 A9 16 85 25  i)...@." )..#)..%
+$0009F0  20 22 FC 20 42 FC 20 7E  0A A2 56 A0 0A 20 06 0B   "| B| ~ ."V . ..
+$000A00  4C 03 08 2C 35 09 10 0A  A9 8B 20 ED FD A9 19 20  L..,5... ). m}). 
+$000A10  ED FD 20 58 FC A9 00 8D  36 09 60 A9 0C 20 ED FD  m} X|).. 6.`). m}
+$000A20  20 58 FC 20 7E 0A A2 33  A0 0A 20 06 0B 20 8E FD   X| ~."3  . .. .}
+$000A30  4C 8F 0A 20 20 20 20 20  20 20 49 4E 54 52 4F 44  L..        INTROD
+$000A40  55 43 54 49 4F 4E 20 54  4F 20 4B 59 41 4E 20 50  UCTION T O KYAN P
+$000A50  41 53 43 41 4C 00 20 54  79 70 65 20 22 4D 45 4E  ASCAL. T ype "MEN
+$000A60  55 22 20 74 6F 20 72 65  74 75 72 6E 20 74 6F 20  U" to re turn to 
+$000A70  74 68 65 20 4D 61 69 6E  20 4D 65 6E 75 00 2C 35  the Main  Menu.,5
+$000A80  09 30 01 60 A2 14 A9 20  20 10 08 CA D0 FA 60 A2  .0.`".)   ..JPz`"
+$000A90  28 2C 35 09 10 02 A2 50  A9 2D 4C 88 0A A9 15 85  (,5..."P )-L..)..
+$000AA0  25 20 22 FC 20 8F 0A 20  7E 0A A2 BF A0 0A 20 06  % "| ..  ~."? . .
+$000AB0  0B 20 8E FD 20 7E 0A A2  E4 A0 0A 20 06 0B 60 20  . .} ~." d . ..` 
+$000AC0  20 20 50 72 65 73 73 20  74 68 65 20 3C 73 70 61    Press  the <spa
+$000AD0  63 65 20 62 61 72 3E 20  74 6F 20 63 6F 6E 74 69  ce bar>  to conti
+$000AE0  6E 75 65 00 20 20 20 20  20 20 50 72 65 73 73 20  nue.       Press 
+$000AF0  74 68 65 20 3C 65 73 63  3E 20 6B 65 79 20 74 6F  the <esc > key to
+$000B00  20 65 78 69 74 00 A5 03  48 A5 02 48 86 02 84 03   exit.%. H%.H....
+$000B10  A0 00 B1 02 F0 0B 20 1C  08 E6 02 D0 F3 E6 03 D0   .1.p. . .f.Psf.P
+$000B20  EF 68 85 02 68 85 03 60  57 45 4C 43 4F 4D 45 20  oh..h..` WELCOME 
+$000B30  54 4F 20 4B 59 41 4E 20  50 41 53 43 41 4C 21 FF  TO KYAN  PASCAL!.
+$000B40  FF 4B 79 61 6E 20 50 61  73 63 61 6C 20 69 73 20  .Kyan Pa scal is 
+$000B50  63 6F 6D 70 72 69 73 65  64 20 6F 66 20 61 20 66  comprise d of a f
+$000B60  75 6C 6C 00 73 63 72 65  65 6E 20 74 65 78 74 20  ull.scre en text 
+$000B70  65 64 69 74 6F 72 20 61  6E 64 20 61 20 50 61 73  editor a nd a Pas
+$000B80  63 61 6C FF 63 6F 6D 70  69 6C 65 72 2F 61 73 73  cal.comp iler/ass
+$000B90  65 6D 62 6C 65 72 2E 20  20 54 68 65 20 74 65 78  embler.   The tex
+$000BA0  74 20 65 64 69 74 6F 72  20 69 73 00 75 73 65 64  t editor  is.used
+$000BB0  20 74 6F 20 74 79 70 65  20 50 61 73 63 61 6C 20   to type  Pascal 
+$000BC0  61 6E 64 20 61 73 73 65  6D 62 6C 79 FF 6C 61 6E  and asse mbly.lan
+$000BD0  67 75 61 67 65 20 70 72  6F 67 72 61 6D 73 20 61  guage pr ograms a
+$000BE0  6E 64 20 63 72 65 61 74  65 20 22 73 6F 75 72 63  nd creat e "sourc
+$000BF0  65 00 63 6F 64 65 22 20  66 69 6C 65 73 2E 20 20  e.code"  files.  
+$000C00  54 68 65 20 50 61 73 63  61 6C 20 63 6F 6D 70 69  The Pasc al compi
+$000C10  6C 65 72 2F FF 61 73 73  65 6D 62 6C 65 72 20 69  ler/.ass embler i
+$000C20  73 20 75 73 65 64 20 74  6F 20 63 6F 6E 76 65 72  s used t o conver
+$000C30  74 20 74 68 65 73 65 00  73 6F 75 72 63 65 20 63  t these. source c
+$000C40  6F 64 65 20 66 69 6C 65  73 20 69 6E 74 6F 20 36  ode file s into 6
+$000C50  35 30 32 20 6D 61 63 68  69 6E 65 FF 6C 61 6E 67  502 mach ine.lang
+$000C60  75 61 67 65 20 66 69 6C  65 73 2E 20 20 54 68 65  uage fil es.  The
+$000C70  73 65 20 6D 61 63 68 69  6E 65 20 63 6F 64 65 00  se machi ne code.
+$000C80  66 69 6C 65 73 20 61 72  65 20 77 68 61 74 20 65  files ar e what e
+$000C90  6E 61 62 6C 65 20 4B 79  61 6E 20 50 61 73 63 61  nable Ky an Pasca
+$000CA0  6C FF 70 72 6F 67 72 61  6D 73 20 74 6F 20 72 75  l.progra ms to ru
+$000CB0  6E 20 33 30 20 74 69 6D  65 73 20 66 61 73 74 65  n 30 tim es faste
+$000CC0  72 20 74 68 61 6E 00 42  41 53 49 43 20 70 72 6F  r than.B ASIC pro
+$000CD0  67 72 61 6D 73 2E FF FF  4B 79 61 6E 20 50 61 73  grams... Kyan Pas
+$000CE0  63 61 6C 20 69 73 20 61  20 66 75 6C 6C 20 69 6D  cal is a  full im
+$000CF0  70 6C 65 6D 65 6E 74 61  74 69 6F 6E 20 6F 66 00  plementa tion of.
+$000D00  73 74 61 6E 64 61 72 64  20 50 61 73 63 61 6C 2E  standard  Pascal.
+$000D10  20 20 54 68 65 20 63 6F  6D 70 69 6C 65 72 20 68    The co mpiler h
+$000D20  61 73 20 62 65 65 6E FF  66 75 6C 6C 79 20 76 61  as been. fully va
+$000D30  6C 69 64 61 74 65 64 20  66 6F 72 20 63 6F 6D 70  lidated  for comp
+$000D40  6C 69 61 6E 63 65 20 77  69 74 68 20 74 68 65 00  liance w ith the.
+$000D50  49 53 4F 20 28 49 6E 74  65 72 6E 61 74 69 6F 6E  ISO (Int ernation
+$000D60  61 6C 20 53 74 61 6E 64  61 72 64 73 FF 4F 72 67  al Stand ards.Org
+$000D70  61 6E 69 7A 61 74 69 6F  6E 29 20 73 74 61 6E 64  anizatio n) stand
+$000D80  61 72 64 20 66 6F 72 20  50 61 73 63 61 6C 2E 20  ard for  Pascal. 
+$000D90  00 53 69 6E 63 65 20 73  74 61 6E 64 61 72 64 20  .Since s tandard 
+$000DA0  50 61 73 63 61 6C 20 73  79 6E 74 61 78 20 69 73  Pascal s yntax is
+$000DB0  20 75 73 65 64 2C FF 4B  79 61 6E 20 50 61 73 63   used,.K yan Pasc
+$000DC0  61 6C 20 70 72 6F 67 72  61 6D 73 20 6D 61 79 20  al progr ams may 
+$000DD0  62 65 20 74 72 61 6E 73  70 6F 72 74 65 64 00 74  be trans ported.t
+$000DE0  6F 20 6F 74 68 65 72 20  63 6F 6D 70 75 74 65 72  o other  computer
+$000DF0  73 2E 20 20 41 6C 73 6F  2C 20 4B 79 61 6E 20 50  s.  Also , Kyan P
+$000E00  61 73 63 61 6C FF 73 79  6E 74 61 78 20 69 73 20  ascal.sy ntax is 
+$000E10  63 6F 6D 70 61 74 69 62  6C 65 20 77 69 74 68 20  compatib le with 
+$000E20  6D 6F 73 74 20 50 61 73  63 61 6C 00 74 65 78 74  most Pas cal.text
+$000E30  62 6F 6F 6B 73 2E FF FF  02 4B 79 61 6E 20 50 61  books... .Kyan Pa
+$000E40  73 63 61 6C 20 75 74 69  6C 69 7A 65 73 20 74 68  scal uti lizes th
+$000E50  65 20 50 72 6F 44 4F 53  00 4F 70 65 72 61 74 69  e ProDOS .Operati
+$000E60  6E 67 20 53 79 73 74 65  6D 20 61 6E 64 20 69 73  ng Syste m and is
+$000E70  20 63 6F 6D 70 61 74 69  62 6C 65 20 77 69 74 68   compati ble with
+$000E80  FF 61 6E 79 20 41 70 70  6C 65 20 2F 2F 20 63 6F  .any App le // co
+$000E90  6D 70 75 74 65 72 20 77  69 74 68 20 61 74 20 6C  mputer w ith at l
+$000EA0  65 61 73 74 20 36 34 4B  00 6F 66 20 6D 65 6D 6F  east 64K .of memo
+$000EB0  72 79 20 61 6E 64 20 61  20 73 69 6E 67 6C 65 20  ry and a  single 
+$000EC0  64 69 73 6B 20 64 72 69  76 65 2E 20 20 41 FF 63  disk dri ve.  A.c
+$000ED0  6F 70 79 20 6F 66 20 74  68 65 20 50 72 6F 44 4F  opy of t he ProDO
+$000EE0  53 20 4F 70 65 72 61 74  69 6E 67 20 53 79 73 74  S Operat ing Syst
+$000EF0  65 6D 20 61 6E 64 00 46  69 6C 65 72 20 69 73 20  em and.F iler is 
+$000F00  69 6E 63 6C 75 64 65 64  20 6F 6E 20 74 68 65 20  included  on the 
+$000F10  4B 79 61 6E 20 50 61 73  63 61 6C FF 64 69 73 6B  Kyan Pas cal.disk
+$000F20  2E 20 20 46 6F 72 20 6D  6F 72 65 20 69 6E 66 6F  .  For m ore info
+$000F30  72 6D 61 74 69 6F 6E 20  61 62 6F 75 74 00 50 72  rmation  about.Pr
+$000F40  6F 44 4F 53 2C 20 70 6C  65 61 73 65 20 72 65 66  oDOS, pl ease ref
+$000F50  65 72 20 74 6F 20 74 68  65 20 4B 79 61 6E 20 50  er to th e Kyan P
+$000F60  61 73 63 61 6C FF 55 73  65 72 27 73 20 4D 61 6E  ascal.Us er's Man
+$000F70  75 61 6C 20 61 6E 64 2F  6F 72 20 65 78 65 63 75  ual and/ or execu
+$000F80  74 65 20 74 68 65 20 50  72 6F 44 4F 53 00 46 69  te the P roDOS.Fi
+$000F90  6C 65 72 2E FF FF 4B 79  61 6E 20 50 61 73 63 61  ler...Ky an Pasca
+$000FA0  6C 20 6F 66 66 65 72 73  20 74 77 6F 20 75 73 65  l offers  two use
+$000FB0  72 20 69 6E 74 65 72 66  61 63 65 73 2E 00 54 68  r interf aces..Th
+$000FC0  65 20 73 74 61 6E 64 61  72 64 20 69 6E 74 65 72  e standa rd inter
+$000FD0  66 61 63 65 20 69 73 20  61 20 6D 65 6E 75 20 64  face is  a menu d
+$000FE0  72 69 76 65 6E FF 65 6E  76 69 72 6F 6E 6D 65 6E  riven.en vironmen
+$000FF0  74 20 77 69 74 68 20 6D  75 6C 74 69 70 6C 65 20  t with m ultiple 
+$001000  68 65 6C 70 20 73 63 72  65 65 6E 73 2E 00 54 68  help scr eens..Th
+$001010  69 73 20 69 6E 74 65 72  66 61 63 65 20 69 73 20  is inter face is 
+$001020  70 65 72 66 65 63 74 20  66 6F 72 20 74 68 6F 73  perfect  for thos
+$001030  65 FF 70 65 6F 70 6C 65  20 6A 75 73 74 20 6C 65  e.people  just le
+$001040  61 72 6E 69 6E 67 20 74  68 65 20 6C 61 6E 67 75  arning t he langu
+$001050  61 67 65 2E 20 20 46 6F  72 00 6D 6F 72 65 20 61  age.  Fo r.more a
+$001060  64 76 61 6E 63 65 64 20  75 73 65 72 73 2C 20 4B  dvanced  users, K
+$001070  79 61 6E 20 50 61 73 63  61 6C FF 66 65 61 74 75  yan Pasc al.featu
+$001080  72 65 73 20 61 20 75 6E  69 71 75 65 2C 20 55 6E  res a un ique, Un
+$001090  69 78 2D 6C 69 6B 65 20  6F 70 65 72 61 74 69 6E  ix-like  operatin
+$0010A0  67 00 65 6E 76 69 72 6F  6E 6D 65 6E 74 20 63 61  g.enviro nment ca
+$0010B0  6C 6C 65 64 20 22 4B 49  58 22 28 74 6D 29 2E 20  lled "KI X"(tm). 
+$0010C0  20 57 69 74 68 20 74 68  65 FF 4B 49 58 20 65 6E   With th e.KIX en
+$0010D0  76 69 72 6F 6E 6D 65 6E  74 2C 20 79 6F 75 20 6D  vironmen t, you m
+$0010E0  61 79 20 62 79 70 61 73  73 20 74 68 65 00 6D 65  ay bypas s the.me
+$0010F0  6E 75 73 20 61 6E 64 20  77 6F 72 6B 20 69 6E 20  nus and  work in 
+$001100  61 20 73 69 6E 67 6C 65  20 63 6F 6D 6D 61 6E 64  a single  command
+$001110  FF 6C 69 6E 65 20 65 6E  76 69 72 6F 6E 6D 65 6E  .line en vironmen
+$001120  74 2E 20 20 57 68 65 6E  65 76 65 72 20 74 68 65  t.  When ever the
+$001130  20 4B 49 58 00 70 72 6F  6D 70 74 20 28 22 25 22   KIX.pro mpt ("%"
+$001140  29 20 69 73 20 70 72 65  73 65 6E 74 2C 20 79 6F  ) is pre sent, yo
+$001150  75 20 63 61 6E 20 65 64  69 74 2C FF 63 6F 6D 70  u can ed it,.comp
+$001160  69 6C 65 2C 20 6F 72 20  64 69 72 65 63 74 6C 79  ile, or  directly
+$001170  20 61 63 63 65 73 73 20  6D 6F 72 65 20 74 68 61   access  more tha
+$001180  6E 00 33 30 20 66 69 6C  65 20 61 6E 64 20 64 69  n.30 fil e and di
+$001190  72 65 63 74 6F 72 79 20  6D 61 6E 61 67 65 6D 65  rectory  manageme
+$0011A0  6E 74 FF 66 75 6E 63 74  69 6F 6E 73 2E 20 20 54  nt.funct ions.  T
+$0011B0  68 65 20 4B 49 58 20 65  6E 76 69 72 6F 6E 6D 65  he KIX e nvironme
+$0011C0  6E 74 20 69 73 00 61 6E  6F 74 68 65 72 20 72 65  nt is.an other re
+$0011D0  61 73 6F 6E 20 77 68 79  20 70 72 6F 67 72 61 6D  ason why  program
+$0011E0  6D 69 6E 67 20 77 69 74  68 FF 4B 79 61 6E 20 50  ming wit h.Kyan P
+$0011F0  61 73 63 61 6C 20 69 73  20 66 61 73 74 20 61 6E  ascal is  fast an
+$001200  64 20 65 61 73 79 2E FF  FF 02 4B 79 61 6E 20 50  d easy.. ..Kyan P
+$001210  61 73 63 61 6C 20 66 65  61 74 75 72 65 73 20 61  ascal fe atures a
+$001220  20 66 75 6C 6C 2D 73 63  72 65 65 6E 20 74 65 78   full-sc reen tex
+$001230  74 00 65 64 69 74 6F 72  20 73 69 6D 69 6C 61 72  t.editor  similar
+$001240  20 74 6F 20 57 6F 72 64  53 74 61 72 2E 20 20 54   to Word Star.  T
+$001250  68 65 20 73 63 72 65 65  6E FF 65 64 69 74 6F 72  he scree n.editor
+$001260  20 66 75 6E 63 74 69 6F  6E 73 20 69 6E 20 65 69   functio ns in ei
+$001270  74 68 65 72 20 34 30 20  6F 72 20 38 30 00 63 6F  ther 40  or 80.co
+$001280  6C 75 6D 6E 20 6D 6F 64  65 2E 20 20 48 65 6C 70  lumn mod e.  Help
+$001290  20 73 63 72 65 65 6E 73  20 61 72 65 20 61 6C 77   screens  are alw
+$0012A0  61 79 73 FF 61 76 61 69  6C 61 62 6C 65 20 74 6F  ays.avai lable to
+$0012B0  20 64 69 73 70 6C 61 79  20 74 68 65 20 65 64 69   display  the edi
+$0012C0  74 6F 72 00 63 6F 6D 6D  61 6E 64 73 2E 20 20 57  tor.comm ands.  W
+$0012D0  68 65 6E 20 79 6F 75 20  61 72 65 20 74 68 72 6F  hen you  are thro
+$0012E0  75 67 68 20 65 64 69 74  69 6E 67 FF 79 6F 75 20  ugh edit ing.you 
+$0012F0  63 61 6E 20 73 61 76 65  20 79 6F 75 72 20 66 69  can save  your fi
+$001300  6C 65 20 6F 6E 20 74 68  65 20 64 69 73 6B 20 61  le on th e disk a
+$001310  6E 64 00 65 78 69 74 20  74 68 65 20 65 64 69 74  nd.exit  the edit
+$001320  6F 72 20 62 79 20 70 72  65 73 73 69 6E 67 20 61  or by pr essing a
+$001330  20 73 69 6E 67 6C 65 FF  6B 65 79 2E FF FF 4B 79   single. key...Ky
+$001340  61 6E 20 50 61 73 63 61  6C 20 61 6C 73 6F 20 66  an Pasca l also f
+$001350  65 61 74 75 72 65 73 20  61 6E 20 61 75 74 6F 20  eatures  an auto 
+$001360  6C 6F 61 64 00 6F 70 74  69 6F 6E 20 77 68 69 63  load.opt ion whic
+$001370  68 20 6C 65 74 73 20 79  6F 75 20 61 75 74 6F 6D  h lets y ou autom
+$001380  61 74 69 63 61 6C 6C 79  FF 6C 6F 61 64 20 74 68  atically .load th
+$001390  65 20 65 64 69 74 6F 72  20 61 6E 64 20 63 6F 6D  e editor  and com
+$0013A0  70 69 6C 65 72 20 69 6E  74 6F 20 52 41 4D 00 77  piler in to RAM.w
+$0013B0  68 65 6E 20 74 68 65 20  64 69 73 6B 20 69 73 20  hen the  disk is 
+$0013C0  62 6F 6F 74 65 64 2E 20  20 28 4E 6F 74 65 3A 20  booted.   (Note: 
+$0013D0  61 6E FF 65 78 74 65 6E  64 65 64 20 38 30 2D 63  an.exten ded 80-c
+$0013E0  6F 6C 75 6D 6E 20 63 61  72 64 20 6F 72 20 52 41  olumn ca rd or RA
+$0013F0  4D 20 62 6F 61 72 64 20  69 73 00 72 65 71 75 69  M board  is.requi
+$001400  72 65 64 20 62 79 20 74  68 69 73 20 66 65 61 74  red by t his feat
+$001410  75 72 65 29 2E FF FF 02  54 68 65 20 4B 79 61 6E  ure).... The Kyan
+$001420  20 50 61 73 63 61 6C 20  63 6F 6D 70 69 6C 65 72   Pascal  compiler
+$001430  2F 61 73 73 65 6D 62 6C  65 72 00 61 75 74 6F 6D  /assembl er.autom
+$001440  61 74 69 63 61 6C 6C 79  20 63 6F 6E 76 65 72 74  atically  convert
+$001450  73 20 79 6F 75 72 20 50  61 73 63 61 6C FF 73 6F  s your P ascal.so
+$001460  75 72 63 65 20 63 6F 64  65 20 69 6E 74 6F 20 6D  urce cod e into m
+$001470  61 63 68 69 6E 65 20 63  6F 64 65 2E 20 20 49 6E  achine c ode.  In
+$001480  20 74 68 65 00 63 6F 6E  76 65 72 73 69 6F 6E 20   the.con version 
+$001490  70 72 6F 63 65 73 73 2C  20 50 61 73 63 61 6C 20  process,  Pascal 
+$0014A0  61 6E 64 20 61 73 73 65  6D 62 6C 79 FF 6C 61 6E  and asse mbly.lan
+$0014B0  67 75 61 67 65 20 73 79  6E 74 61 78 20 69 73 20  guage sy ntax is 
+$0014C0  63 68 65 63 6B 65 64 20  66 6F 72 20 65 72 72 6F  checked  for erro
+$0014D0  72 73 2E 00 57 68 65 6E  20 63 6F 6D 70 69 6C 61  rs..When  compila
+$0014E0  74 69 6F 6E 20 69 73 20  63 6F 6D 70 6C 65 74 65  tion is  complete
+$0014F0  2C 20 61 6E FF 6F 62 6A  65 63 74 20 63 6F 64 65  , an.obj ect code
+$001500  20 66 69 6C 65 20 69 73  20 61 75 74 6F 6D 61 74   file is  automat
+$001510  69 63 61 6C 6C 79 00 73  61 76 65 64 20 6F 6E 20  ically.s aved on 
+$001520  74 68 65 20 64 69 73 6B  2E 20 20 49 66 20 65 72  the disk .  If er
+$001530  72 6F 72 73 20 68 61 76  65 20 62 65 65 6E FF 64  rors hav e been.d
+$001540  65 74 65 63 74 65 64 2C  20 61 6E 20 6F 62 6A 65  etected,  an obje
+$001550  63 74 20 66 69 6C 65 20  77 69 6C 6C 20 6E 6F 74  ct file  will not
+$001560  20 62 65 00 67 65 6E 65  72 61 74 65 64 2E 20 20   be.gene rated.  
+$001570  49 6E 73 74 65 61 64 2C  20 61 20 73 6F 75 72 63  Instead,  a sourc
+$001580  65 20 63 6F 64 65 FF 6C  69 73 74 69 6E 67 20 6F  e code.l isting o
+$001590  66 20 74 68 65 20 70 72  6F 67 72 61 6D 20 77 69  f the pr ogram wi
+$0015A0  6C 6C 20 62 65 20 70 72  69 6E 74 65 64 2C 00 61  ll be pr inted,.a
+$0015B0  6C 6F 6E 67 20 77 69 74  68 20 61 20 63 6F 6D 70  long wit h a comp
+$0015C0  69 6C 65 72 20 6C 69 73  74 69 6E 67 20 6F 66 20  iler lis ting of 
+$0015D0  74 68 65 FF 6C 6F 63 61  74 69 6F 6E 20 61 6E 64  the.loca tion and
+$0015E0  20 74 79 70 65 20 6F 66  20 65 72 72 6F 72 73 20   type of  errors 
+$0015F0  66 6F 75 6E 64 2E 20 20  59 6F 75 00 63 61 6E 20  found.   You.can 
+$001600  65 61 73 69 6C 79 20 63  6F 72 72 65 63 74 20 65  easily c orrect e
+$001610  72 72 6F 72 73 20 61 6E  64 20 64 65 62 75 67 FF  rrors an d debug.
+$001620  70 72 6F 67 72 61 6D 73  20 62 79 20 72 65 2D 65  programs  by re-e
+$001630  6E 74 65 72 69 6E 67 20  74 68 65 20 65 64 69 74  ntering  the edit
+$001640  6F 72 2C 00 63 6F 72 72  65 63 74 69 6E 67 20 74  or,.corr ecting t
+$001650  68 65 20 6D 69 73 74 61  6B 65 73 2C 20 61 6E 64  he mista kes, and
+$001660  20 72 65 70 65 61 74 69  6E 67 FF 74 68 65 20 63   repeati ng.the c
+$001670  6F 6D 70 69 6C 61 74 69  6F 6E 20 70 72 6F 63 65  ompilati on proce
+$001680  64 75 72 65 2E FF FF 4B  79 61 6E 20 50 61 73 63  dure...K yan Pasc
+$001690  61 6C 20 69 73 20 61 20  76 65 72 79 20 70 6F 77  al is a  very pow
+$0016A0  65 72 66 75 6C 00 70 72  6F 67 72 61 6D 6D 69 6E  erful.pr ogrammin
+$0016B0  67 20 74 6F 6F 6C 2E 20  20 49 74 20 69 73 20 77  g tool.   It is w
+$0016C0  69 64 65 6C 79 20 75 73  65 64 FF 69 6E 20 73 63  idely us ed.in sc
+$0016D0  68 6F 6F 6C 73 20 62 79  20 69 6E 73 74 72 75 63  hools by  instruc
+$0016E0  74 6F 72 73 20 77 68 6F  20 61 72 65 00 74 65 61  tors who  are.tea
+$0016F0  63 68 69 6E 67 20 74 68  65 20 50 61 73 63 61 6C  ching th e Pascal
+$001700  20 6C 61 6E 67 75 61 67  65 20 61 6E 64 20 62 79   languag e and by
+$001710  FF 73 74 75 64 65 6E 74  73 20 77 68 6F 20 61 72  .student s who ar
+$001720  65 20 74 61 6B 69 6E 67  20 61 20 63 6C 61 73 73  e taking  a class
+$001730  20 69 6E 00 50 61 73 63  61 6C 20 61 6E 64 20 77   in.Pasc al and w
+$001740  61 6E 74 20 74 6F 20 77  6F 72 6B 20 61 74 20 68  ant to w ork at h
+$001750  6F 6D 65 2E 20 20 4B 79  61 6E FF 50 61 73 63 61  ome.  Ky an.Pasca
+$001760  6C 20 69 73 20 61 6C 73  6F 20 75 73 65 64 20 62  l is als o used b
+$001770  79 20 61 20 67 72 6F 77  69 6E 67 20 6E 75 6D 62  y a grow ing numb
+$001780  65 72 00 6F 66 20 70 72  6F 66 65 73 73 69 6F 6E  er.of pr ofession
+$001790  61 6C 20 70 72 6F 67 72  61 6D 6D 65 72 73 20 77  al progr ammers w
+$0017A0  68 6F 20 61 72 65 FF 64  65 76 65 6C 6F 70 69 6E  ho are.d evelopin
+$0017B0  67 20 6E 65 77 20 61 70  70 6C 69 63 61 74 69 6F  g new ap plicatio
+$0017C0  6E 20 73 6F 66 74 77 61  72 65 20 66 6F 72 00 74  n softwa re for.t
+$0017D0  68 65 20 41 70 70 6C 65  20 2F 2F 20 73 65 72 69  he Apple  // seri
+$0017E0  65 73 20 6F 66 20 63 6F  6D 70 75 74 65 72 73 2E  es of co mputers.
+$0017F0  FF FF 02 4B 79 61 6E 20  50 61 73 63 61 6C 20 69  ...Kyan  Pascal i
+$001800  73 20 73 75 70 70 6F 72  74 65 64 20 62 79 20 61  s suppor ted by a
+$001810  20 67 72 6F 77 69 6E 67  00 6E 75 6D 62 65 72 20   growing .number 
+$001820  6F 66 20 22 74 6F 6F 6C  6B 69 74 73 22 20 77 68  of "tool kits" wh
+$001830  69 63 68 20 63 6F 6E 74  61 69 6E FF 73 70 65 63  ich cont ain.spec
+$001840  69 61 6C 20 70 75 72 70  6F 73 65 20 72 6F 75 74  ial purp ose rout
+$001850  69 6E 65 73 20 74 68 61  74 20 61 72 65 00 75 73  ines tha t are.us
+$001860  65 66 75 6C 20 69 6E 20  70 72 6F 67 72 61 6D 6D  eful in  programm
+$001870  69 6E 67 2E 20 20 4B 79  61 6E 27 73 FF 4D 6F 75  ing.  Ky an's.Mou
+$001880  73 65 54 65 78 74 20 54  6F 6F 6C 6B 69 74 20 61  seText T oolkit a
+$001890  6C 6C 6F 77 73 20 70 72  6F 67 72 61 6D 6D 65 72  llows pr ogrammer
+$0018A0  73 00 75 73 69 6E 67 20  4B 79 61 6E 20 50 61 73  s.using  Kyan Pas
+$0018B0  63 61 6C 20 74 6F 20 61  64 64 20 4D 61 63 69 6E  cal to a dd Macin
+$0018C0  74 6F 73 68 2D 6C 69 6B  65 FF 77 69 6E 64 6F 77  tosh-lik e.window
+$0018D0  73 20 61 6E 64 20 70 75  6C 6C 2D 64 6F 77 6E 20  s and pu ll-down 
+$0018E0  6D 65 6E 75 73 20 74 6F  20 74 68 65 69 72 00 70  menus to  their.p
+$0018F0  72 6F 67 72 61 6D 73 2E  20 20 54 68 65 20 41 64  rograms.   The Ad
+$001900  76 61 6E 63 65 64 20 47  72 61 70 68 69 63 73 FF  vanced G raphics.
+$001910  54 6F 6F 6C 6B 69 74 20  67 69 76 65 73 20 70 72  Toolkit  gives pr
+$001920  6F 67 72 61 6D 6D 65 72  73 20 61 63 63 65 73 73  ogrammer s access
+$001930  20 74 6F 20 61 00 77 69  64 65 20 72 61 6E 67 65   to a.wi de range
+$001940  20 6F 66 20 68 69 67 68  6C 79 20 73 6F 70 68 69   of high ly sophi
+$001950  73 74 69 63 61 74 65 64  FF 67 72 61 70 68 69 63  sticated .graphic
+$001960  73 20 72 6F 75 74 69 6E  65 73 2E 20 20 54 68 65  s routin es.  The
+$001970  20 55 74 69 6C 69 74 79  20 54 6F 6F 6C 6B 69 74   Utility  Toolkit
+$001980  00 63 6F 6E 74 61 69 6E  73 20 61 20 6D 69 78 74  .contain s a mixt
+$001990  75 72 65 20 6F 66 20 68  65 6C 70 66 75 6C 20 75  ure of h elpful u
+$0019A0  74 69 6C 69 74 69 65 73  FF 61 6E 64 20 66 69 6C  tilities .and fil
+$0019B0  65 20 6D 61 6E 61 67 65  6D 65 6E 74 20 66 75 6E  e manage ment fun
+$0019C0  63 74 69 6F 6E 73 20 77  68 69 63 68 00 6D 61 6B  ctions w hich.mak
+$0019D0  65 20 70 72 6F 67 72 61  6D 20 64 65 76 65 6C 6F  e progra m develo
+$0019E0  70 6D 65 6E 74 20 66 61  73 74 20 61 6E 64 20 65  pment fa st and e
+$0019F0  61 73 79 2E FF FF 54 68  61 6E 6B 73 20 66 6F 72  asy...Th anks for
+$001A00  20 73 65 6C 65 63 74 69  6E 67 20 4B 79 61 6E 20   selecti ng Kyan 
+$001A10  50 61 73 63 61 6C 20 66  6F 72 00 74 68 65 20 41  Pascal f or.the A
+$001A20  70 70 6C 65 20 2F 2F 20  73 65 72 69 65 73 2E 20  pple //  series. 
+$001A30  20 59 6F 75 20 63 61 6E  20 6C 65 61 72 6E FF 6D   You can  learn.m
+$001A40  6F 72 65 20 61 62 6F 75  74 20 4B 79 61 6E 20 50  ore abou t Kyan P
+$001A50  61 73 63 61 6C 20 61 6E  64 20 6B 65 65 70 20 75  ascal an d keep u
+$001A60  70 20 6F 6E 00 61 6C 6C  20 74 68 65 20 6C 61 74  p on.all  the lat
+$001A70  65 73 74 20 64 65 76 65  6C 6F 70 6D 65 6E 74 73  est deve lopments
+$001A80  20 62 79 FF 73 75 62 73  63 72 69 62 69 6E 67 20   by.subs cribing 
+$001A90  74 6F 20 22 55 70 64 61  74 65 2E 2E 2E 4B 79 61  to "Upda te...Kya
+$001AA0  6E 22 2C 20 4B 79 61 6E  27 73 00 62 69 2D 6D 6F  n", Kyan 's.bi-mo
+$001AB0  6E 74 68 6C 79 20 6E 65  77 73 6C 65 74 74 65 72  nthly ne wsletter
+$001AC0  2E FF FF 48 41 50 50 59  20 50 52 4F 47 52 41 4D  ...HAPPY  PROGRAM
+$001AD0  4D 49 4E 47 21 FF FF 20  20 20 20 20 20 20 20 20  MING!..          
+$001AE0  20 2D 20 4B 59 41 4E 20  53 4F 46 54 57 41 52 45   - KYAN  SOFTWARE
+$001AF0  2C 20 49 4E 43 2E FF 01  49 4E 54 52 4F 00 .. ..  , INC... INTRO.  
+** END **
