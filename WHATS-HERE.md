@@ -16,6 +16,7 @@ The purpose of this disk image is **validation**: anyone can assemble the four p
 - **`STEPBYSTEP.txt`** — Exact step-by-step instructions for reassembling Merlin inside AppleWin/Merlin itself, ending with a `CMP` command to verify the result matches the original binary.
 - **`PACKOP2.txt`** — Hex dump of the `PACKOP2` utility binary (the opcode packer that must be `BRUN` before assembling `MACASS.S`).
 - **`MerlinManual.txt`** — Merlin assembler manual covering early versions of the software, scanned by GS WorldView. Includes introduction, system requirements, editor and assembler usage, macros, and technical information.
+- **`MerlinManual-README.md`** — Analysis of how the manual relates to the v2.59 source in this repository: what the manual covers accurately, what v2.59 adds beyond the manual (65802/65816 support, `XC`, `CYC`, `DAT`, relocatable object format), and notes on hardware requirements and SOURCEROR.
 
 ### Primary Source Files (the four that get assembled)
 These are assembled in order per `STEPBYSTEP.txt`:

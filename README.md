@@ -51,6 +51,7 @@ READMEFIRST.txt     Willi Kusche's original notes on this disk image
 STEPBYSTEP.txt      Step-by-step assembly instructions for AppleWin
 PACKOP2.txt         Hex dump of the PACKOP2 utility binary
 MerlinManual.txt    Merlin assembler manual (early versions), scanned by GS WorldView
+MerlinManual-README.md  Notes on how the manual relates to this (v2.59) source
 ```
 
 For a detailed description of every file, see [`WHATS-HERE.md`](WHATS-HERE.md).
@@ -119,3 +120,4 @@ To assemble and run this source you need:
 - [`READMEFIRST.txt`](READMEFIRST.txt) — Willi Kusche's original notes
 - [`STEPBYSTEP.txt`](STEPBYSTEP.txt) — exact reproduction instructions
 - [`MerlinManual.txt`](MerlinManual.txt) — Merlin assembler manual (early versions), scanned by GS WorldView
+- [`MerlinManual-README.md`](MerlinManual-README.md) — notes on how the manual relates to this v2.59 source: what matches, what v2.59 adds
