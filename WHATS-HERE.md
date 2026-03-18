@@ -15,6 +15,7 @@ The purpose of this disk image is **validation**: anyone can assemble the four p
 - **`READMEFIRST.txt`** — Willi Kusche's introduction. Explains the validation methodology and one important modification: five padding bytes were appended to both `MACASS.S` and `MACEXEC.S` to eliminate random bytes that `SAVE/MERLIN` would otherwise generate, ensuring a deterministic build.
 - **`STEPBYSTEP.txt`** — Exact step-by-step instructions for reassembling Merlin inside AppleWin/Merlin itself, ending with a `CMP` command to verify the result matches the original binary.
 - **`PACKOP2.txt`** — Hex dump of the `PACKOP2` utility binary (the opcode packer that must be `BRUN` before assembling `MACASS.S`).
+- **`MerlinManual.txt`** — Merlin assembler manual covering early versions of the software, scanned by GS WorldView. Includes introduction, system requirements, editor and assembler usage, macros, and technical information.
 
 ### Primary Source Files (the four that get assembled)
 These are assembled in order per `STEPBYSTEP.txt`:

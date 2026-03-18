@@ -50,6 +50,7 @@ SAVE/               Build script (MERLIN.S), macros (BMACS.S), reference binary
 READMEFIRST.txt     Willi Kusche's original notes on this disk image
 STEPBYSTEP.txt      Step-by-step assembly instructions for AppleWin
 PACKOP2.txt         Hex dump of the PACKOP2 utility binary
+MerlinManual.txt    Merlin assembler manual (early versions), scanned by GS WorldView
 ```
 
 For a detailed description of every file, see [`WHATS-HERE.md`](WHATS-HERE.md).
@@ -117,3 +118,4 @@ To assemble and run this source you need:
 - [`WHATS-HERE.md`](WHATS-HERE.md) — annotated guide to every file and directory in this repo
 - [`READMEFIRST.txt`](READMEFIRST.txt) — Willi Kusche's original notes
 - [`STEPBYSTEP.txt`](STEPBYSTEP.txt) — exact reproduction instructions
+- [`MerlinManual.txt`](MerlinManual.txt) — Merlin assembler manual (early versions), scanned by GS WorldView
